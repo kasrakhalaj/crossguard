@@ -1,0 +1,35 @@
+Use case: style-transfer / stylized-concept.
+Edit target: attached original CROSSGUARD PIXEL ART STARTER KIT design board. Produce a comprehensively REDESIGNED successor board, retaining the useful organized categories (palette, character views, armor parts, weapons and gear, side-view map props, small world scene), the working game title CROSSGUARD and cool steel / warm amber / burgundy color family. Change generic fantasy designs decisively through silhouettes, construction and material storytelling, not by adding filigree or extra noise.
+Output: ONE high-resolution landscape 3:2 design board. Title exact "CROSSGUARD". Subtitle exact "64 × 64 SPRITE DESIGN STUDIES". Small footer exact "THE LAST SUNWORKS • CONCEPT REFERENCE". This is an enlarged conceptual design board showing assets intended for 64x64 source sprite frames; not animation, not a claim of export-ready native sprites.
+
+Art: authentic crisp low-resolution pixel-cluster appearance with hard square pixels, no anti-aliased curves, no painterly noise, no gradients or bloom across asset panels. On the isolated hero studies, draw as if on a 64x64 source canvas enlarged 4x, actor about 50–56 logical pixels tall including helmet, ample transparent-like plain background margin around each pose, consistent pixel unit across main character front/side/back studies. Tiny understated corner frame marks around these studies. The whole board background is flat deep blue-grey (not transparent, no checkerboard). Restrained editorial typography cream and muted brass, generous breathing room and sharply divided panels. Limit text to requested title, panel labels, and short object labels.
+
+WORLD IDENTITY: a vanished order of armored maintenance guardians in a coastal fortress that stored sunlight in amber glass. Their armor resembles robust workshop equipment and shutter mechanisms, medieval hand-forged craft, not modern military or science-fiction robotics. Broken collector petals, amber cartridge cages and hinged shutters recur across objects. Never draw crosses, crusader shields, skulls, horned helmets or ornate generic magic swords.
+
+CHARACTER panel "THE SHUTTER WARDEN", upper center-right, dominant:
+Three views FRONT / SIDE / BACK of the SAME distinctive original character. Compact sturdy proportions with a deliberate memorable silhouette. Closed squat angular furnace-like helmet with sloped crown and small OFFSET horizontal amber viewing window under a thick overhanging brow. No conventional T-shaped knight visor. A single broad overlapping shutter plate protects one shoulder, the opposite shoulder is visibly smaller and leather bound. Chest has a RECESSED amber glass core under two protective diagonal steel ribs, light is two or three small flat bright clusters not a big glowing orb. Short burgundy work half-cape hangs only from the broad shoulder and has one repaired patch, no full superhero cape. Broad practical gauntlets, thick shin guards and compact wedge boots. Dull blue steel, warm bronze hinges, off-white chipped enamel patch on one plate. Back has a small protective cartridge housing integrated into the belt, not a giant backpack. Shoulder plate, offset visor and wedge boots must stay readable as silhouette. No excessive tiny straps. Strong planar highlights suggest volume, with top-left neutral studio lighting. Pose easily animatable, separated limbs.
+Below or beside views show matching helmet, layered breastplate and folded shutter shield studies, clearly coherent with hero.
+
+WEAPONS panel "TOOLS OF THE GUARD":
+- "RAILBLADE": functional straight steel sword with a broad blunt spine and narrow sharp bright edge; simple squared U-shaped brass guard resembling a locking bracket, burgundy grip, one small maker's notch near hilt. Clear tip, not a lightsaber.
+- "LAMINATE BOW": asymmetrical laminated wood recurve bow reinforced by two visible brass clamps; one pale taut string; small amber bead at grip. Still unmistakably a bow.
+- "ARROW": simple readable shaft and chisel-like metal head.
+- "SHUTTER SHIELD": distinctive compact shield of three overlapping fan-like blue-steel plates with brass hinge at lower corner, off-white repaired upper plate, no heraldic symbol.
+- "WOODCUTTER": simple hooked utility axe with wrapped handle and bronze socket.
+Objects remain simple enough to redraw, 64x64 frame design language, not ultra-high-detail inventory renders.
+
+PALETTE panel left narrow, "MATERIAL RAMPS":
+6 rows, each 4 perfectly FLAT swatches dark to light, labels STEEL / STONE / WOOD / BRASS / MOSS / CLOTH.
+Steel #171C2C #39465E #718DA5 #C8DCE5
+Stone #292936 #494653 #77717A #AAA1A0
+Wood #302229 #654033 #A36843 #D8A16A
+Brass #69402C #B87832 #EABB58 #FFF0B0
+Moss #243A32 #41604A #78935A #B2BB78
+Cloth #402638 #78384B #B95C65 #ECA08D
+No hex text.
+
+BOTTOM panel "WORKSHOP PROPS":
+Side-view, each clearly separate: amber cartridge held in riveted metal cage, empty cartridge with obvious hollow blue glass, timber carrying crate with shaped slots holding two cartridges rather than plain generic crate, broken segmented brass reflector petal on support, stubby maintenance lantern with protective shutter, wet thick stone ledge module with shaded front and bright lip, sparse wind-bent grass, heavy riveted service hatch with narrow amber slit, short patched burgundy service pennant with an abstract offset rectangle maker's mark. Strong unique profiles, shared hinges/clamps across props.
+
+BOTTOM RIGHT "THE SUNWORKS":
+Small fully 2D side-on gameplay scene showing the redesigned warden with the SAME offset visor and asymmetrical shoulder, on a thick slate platform, dark foreground support framing the edge, dim workshop hatch with amber slit, empty cartridge stand and broken reflector. Beyond open workshop window distant collector dish on sea cliff in cold desaturated haze. Depth through flat overlapping background layers, no isometric camera, no 3D render. Gameplay actor stands clearly apart from environment. Only this tiny scene can have restrained atmosphere. Full board is a practical distinctive pixel-art design reference, no smoky haze veiling drawings, no ornaments padding empty space.

@@ -1,0 +1,23 @@
+PASS: Hero lands on the starting floor
+PASS: Horizontal input moves the hero using physics
+PASS: Jump input lifts the hero clear of the ground
+PASS: Dash covers extra distance
+PASS: Dash enters cooldown
+PASS: Jump and dash traverse the first real map gap
+PASS: Pause freezes simulation
+PASS: Three sword inputs defeat a walker through overlap hit detection
+PASS: Hidden heart is collected and increases maximum health
+PASS: Touching the second lantern updates the checkpoint
+PASS: Lethal damage enters the fallen state
+PASS: Death returns the hero to the checkpoint with full health
+PASS: Ordinary enemies reset on checkpoint retry
+PASS: A pit costs one heart and recovers to safe ground
+PASS: Resting at a lantern restores health
+PASS: Spore projectile contact damages the hero
+PASS: Reaching the east side opens the return bridge
+PASS: Entering the belfry starts the boss and closes the entrance
+PASS: Boss retry resets health and gates and returns to the last lantern
+PASS: Boss executes all three telegraphed attacks
+PASS: Sword hits defeat the boss and open the exit
+PASS: Reaching the dawn bell after the boss completes the game
+Failures: 0

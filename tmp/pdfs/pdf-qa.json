@@ -1,0 +1,68 @@
+{
+  "pages": 10,
+  "intended_pages": 10,
+  "bytes": 93909,
+  "links": 21,
+  "pages_detail": [
+    {
+      "page": 1,
+      "words": 429,
+      "start": "Crossguard: a first game worth finishing\nProject, design and Steam market assessment | 6 September 2026\nPrepar",
+      "end": "used combat experiments. Do not decide your entire career\nfrom the sales of this one project.\nCROSSGUARD / PROJECT & MARKET ASSESSMENT\nPrepared for Kasra | 6 September 2026\n1 / 10\n"
+    },
+    {
+      "page": 2,
+      "words": 438,
+      "start": "2. What is actually in your project\nI read light-knight-2d-gdd.md, README.md, the combat scripts and diagnosti",
+      "end": "nt as a proposal to evaluate; its\ninternal instructions did not authorize changing your code.\nCROSSGUARD / PROJECT & MARKET ASSESSMENT\nPrepared for Kasra | 6 September 2026\n2 / 10\n"
+    },
+    {
+      "page": 3,
+      "words": 483,
+      "start": "3. Refactor the foundation before adding content\nThe following are source-level findings. Reproduce the behavi",
+      "end": "understandable at different frame rates. The source\nlocators are included in the final notes.\nCROSSGUARD / PROJECT & MARKET ASSESSMENT\nPrepared for Kasra | 6 September 2026\n3 / 10\n"
+    },
+    {
+      "page": 4,
+      "words": 378,
+      "start": "4. What Steam evidence can and cannot tell you\nChris Zukowski's January 2026 analysis reports that 608 of 20,2",
+      "end": ", finished game and reach its actual players matters more than attaching a fashionable label.\nCROSSGUARD / PROJECT & MARKET ASSESSMENT\nPrepared for Kasra | 6 September 2026\n4 / 10\n"
+    },
+    {
+      "page": 5,
+      "words": 498,
+      "start": "5. The smaller, stronger game I would build\nKeep the duel gauntlet and the spirit in armor. Make the first com",
+      "end": "iver value. If the\nresult is very short, present and price it honestly instead of padding it.\nCROSSGUARD / PROJECT & MARKET ASSESSMENT\nPrepared for Kasra | 6 September 2026\n5 / 10\n"
+    },
+    {
+      "page": 6,
+      "words": 475,
+      "start": "6. A Holstin-inspired look you can produce\nYou were right about the announced year: Sonka's 27 August 2026 com",
+      "end": " low-resolution view after a small comparison test. Avoid maintaining two full art pipelines.\nCROSSGUARD / PROJECT & MARKET ASSESSMENT\nPrepared for Kasra | 6 September 2026\n6 / 10\n"
+    },
+    {
+      "page": 7,
+      "words": 464,
+      "start": "7. A plan for your 28 hours a week\nUse the hours as a sustainable weekly budget. A starting allocation is 14 h",
+      "end": "bution such as capsule art or a small audio set, with a fixed deliverable and affordable cap.\nCROSSGUARD / PROJECT & MARKET ASSESSMENT\nPrepared for Kasra | 6 September 2026\n7 / 10\n"
+    },
+    {
+      "page": 8,
+      "words": 481,
+      "start": "8. How to earn good reviews and test demand\nGood reviews are an outcome of the experience meeting the promise.",
+      "end": "features without identifying which problem you have makes\nthe experiment harder to interpret.\nCROSSGUARD / PROJECT & MARKET ASSESSMENT\nPrepared for Kasra | 6 September 2026\n8 / 10\n"
+    },
+    {
+      "page": 9,
+      "words": 501,
+      "start": "9. Steam release and the portfolio payoff\nThere is no magic wishlist threshold that guarantees a launch. Valve",
+      "end": " a capable indie developer, whether its first Steam launch is modest or unusually successful.\nCROSSGUARD / PROJECT & MARKET ASSESSMENT\nPrepared for Kasra | 6 September 2026\n9 / 10\n"
+    },
+    {
+      "page": 10,
+      "words": 421,
+      "start": "Evidence and scope notes\nLocal source inspected: C:/Unity/crossguard/light-knight-2d-gdd.md; README.md; Assets",
+      "end": "riments. No live gameplay quality, hardware\nperformance or future review score was verified.\nCROSSGUARD / PROJECT & MARKET ASSESSMENT\nPrepared for Kasra | 6 September 2026\n10 / 10\n"
+    }
+  ]
+}

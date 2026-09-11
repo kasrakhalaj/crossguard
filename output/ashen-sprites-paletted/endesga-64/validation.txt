@@ -1,0 +1,16 @@
+knight-front.png: 64x64, 26 palette colors, alpha unchanged, PASS
+knight-side.png: 64x64, 24 palette colors, alpha unchanged, PASS
+knight-back.png: 64x64, 25 palette colors, alpha unchanged, PASS
+helmet.png: 64x64, 24 palette colors, alpha unchanged, PASS
+breastplate.png: 64x64, 20 palette colors, alpha unchanged, PASS
+sword.png: 64x64, 23 palette colors, alpha unchanged, PASS
+bow.png: 64x64, 18 palette colors, alpha unchanged, PASS
+arrow.png: 64x64, 18 palette colors, alpha unchanged, PASS
+shield.png: 64x64, 17 palette colors, alpha unchanged, PASS
+mace.png: 64x64, 26 palette colors, alpha unchanged, PASS
+lantern.png: 64x64, 25 palette colors, alpha unchanged, PASS
+urn.png: 64x64, 16 palette colors, alpha unchanged, PASS
+shrine.png: 64x64, 27 palette colors, alpha unchanged, PASS
+broken-column.png: 64x64, 17 palette colors, alpha unchanged, PASS
+banner.png: 64x64, 21 palette colors, alpha unchanged, PASS
+grass.png: 64x64, 17 palette colors, alpha unchanged, PASS

@@ -1,0 +1,16 @@
+knight-front.png: 64x64 RGBA, transparent pixels=2833
+knight-side.png: 64x64 RGBA, transparent pixels=3035
+knight-back.png: 64x64 RGBA, transparent pixels=2847
+helmet.png: 64x64 RGBA, transparent pixels=2567
+breastplate.png: 64x64 RGBA, transparent pixels=2241
+sword.png: 64x64 RGBA, transparent pixels=3641
+bow.png: 64x64 RGBA, transparent pixels=3472
+arrow.png: 64x64 RGBA, transparent pixels=3675
+shield.png: 64x64 RGBA, transparent pixels=2494
+mace.png: 64x64 RGBA, transparent pixels=3508
+lantern.png: 64x64 RGBA, transparent pixels=2869
+urn.png: 64x64 RGBA, transparent pixels=2597
+shrine.png: 64x64 RGBA, transparent pixels=2191
+broken-column.png: 64x64 RGBA, transparent pixels=2399
+banner.png: 64x64 RGBA, transparent pixels=3185
+grass.png: 64x64 RGBA, transparent pixels=2818
